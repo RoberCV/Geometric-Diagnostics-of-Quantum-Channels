@@ -1,8 +1,6 @@
 # Quantum Channel Geometry: Diagnostics, Calibration Protocols and Robustness
 ## Code for the Paper: Geometric Invariants of Quantum Channels: A Framework for Robustness and Noise Diagnostics
-This repository contains the complete, Colab-ready Python implementation of all numerical experiments, figures, and diagnostic tools introduced in the paper. The notebooks provide a unified computational framework for studying the geometry of quantum channels under the Bures metric, including dynamical trajectories, geometric efficiency, curvature-weighted robustness, and parameter-sweep diagnostics.
-
-All code is clean, fully commented in English, disk-free (no file writes), and generates all figures inline with outputs stored directly in Python variables or DataFrames.
+This repository contains the complete Python implementation of all numerical experiments, figures, and diagnostic tools introduced in the paper. The notebooks provide a unified computational framework for studying the geometry of quantum channels under the Bures metric, including dynamical trajectories, geometric efficiency, curvature-weighted robustness, and parameter-sweep diagnostics.
 
 ### Repository Structure
 #### 1. Parameter Sweep Diagnostics
