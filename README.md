@@ -99,7 +99,7 @@ Local speed/acceleration analysis
 
 Full figure suite, inline
 
-Key Concepts Implemented
+#### Key Concepts Implemented
 
 Quantum trajectories under iterated Kraus channels
 
