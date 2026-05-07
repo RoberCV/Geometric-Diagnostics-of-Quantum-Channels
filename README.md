@@ -5,7 +5,7 @@ This repository contains the complete Python implementation of all numerical exp
 ### Repository Structure
 #### 1. Parameter Sweep Diagnostics
 
-Notebook: GI_5_2_1_Parameter_sweep_diagnostics.ipynb
+Notebook: 5_2_1_Parameter_sweep_diagnostics.ipynb
 Implements Section 5.2.1 of the paper.
 
 Includes:
@@ -20,7 +20,7 @@ Geometry of induced quantum trajectories
 
 #### 2. Local Fragility and Sensitivity
 
-Notebook: GI_5_2_2_Local_fragility_and_sensitivity.ipynb
+Notebook: 5_2_2_Local_fragility_and_sensitivity.ipynb
 Implements Section 5.2.2.
 
 Includes:
@@ -35,7 +35,7 @@ Mean-over-states diagnostics
 
 #### 3. Geometric Calibration Protocols
 
-Notebook: GI_5_2_3_Geometric_calibration_protocols.ipynb
+Notebook: 5_2_3_Geometric_calibration_protocols.ipynb
 Implements Section 5.2.3.
 
 Protocols implemented:
@@ -58,7 +58,7 @@ Inline generation of all figures
 
 #### 4. Curvature-Weighted Global Robustness
 
-Notebook: GI_5_2_4_Curvature_weighted_global_robustness.ipynb
+Notebook: 5_2_4_Curvature_weighted_global_robustness.ipynb
 Implements Section 5.2.5.
 
 Includes:
@@ -79,7 +79,7 @@ CRS vs parameter
 
 #### 5. Case Study: Fiber-Induced Dephasing
 
-Notebook: GI_Case_study_fiber_induced_dephasing.ipynb
+Notebook: Case_study_fiber_induced_dephasing.ipynb
 Implements the case study in Section 5.3.
 
 Includes:
